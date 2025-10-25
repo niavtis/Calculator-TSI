@@ -12,7 +12,7 @@ int main() {
     cin >> alpha;
     cout << endl << "Alpha = " << alpha << " radiāni" << endl;
     
-    // z1 aprēķins: z1 = cos²(3π/8 - α/4) - cos²(11π/8 + α/4)
+    // z1 aprēķins
     cout << "\n=== Z1 APRĒĶINS ===" << endl;
     cout << "Formula: z1 = cos²(3π/8 - α/4) - cos²(11π/8 + α/4)" << endl;
     
@@ -51,7 +51,7 @@ int main() {
     cout << "   z1 = " << cos2_arg1 << " - " << cos2_arg2 << endl;
     cout << "   z1 = " << z1 << endl;
     
-    // z2 aprēķins: z2 = (√2 / 2) * sin(α/2)
+    // z2 aprēķins
     cout << "\n=== Z2 APRĒĶINS ===" << endl;
     cout << "Formula: z2 = (√2 / 2) * sin(α/2)" << endl;
     
